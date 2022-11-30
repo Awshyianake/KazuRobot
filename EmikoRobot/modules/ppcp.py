@@ -6,9 +6,7 @@ from telethon.tl.types import InputMessagesFilterPhotos
 
 from EmikoRobot.events import register
 
-from EmikoRobot import telethn as tbot, ubot2 
-
-from EmikoRobot.modules.language import gs                
+from EmikoRobot import telethn as tbot, ubot2               
 
 @register(pattern="^/ppcp ?(.*)")
 
