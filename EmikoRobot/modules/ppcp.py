@@ -12,7 +12,7 @@ from EmikoRobot import telethn as tbot, ubot2
 
 async def _(event):
 
-    memeks = await event.reply("Sabar Kontol, Lagi Ku Cari...🔍") 
+    memeks = await event.reply("Sabar Sayang, Lagi Kazu Cari...🔍") 
 
     try:
 
